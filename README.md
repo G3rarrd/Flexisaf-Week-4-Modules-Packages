@@ -87,7 +87,8 @@ Run the Student Tools application:
 python student_tools.py
 ```
 Note: The student_tools.py file generates sample results only. A user cannot not create results from the terminal. For a different results, customizations and showcase of different results can be made in the student_tools.py file
-
+### Example Output
+![Example Output of Transaction logs](https://github.com/G3rarrd/Error-Handling-Deep-Dive--Bank-Withdrawal-System/blob/main/readme_assets/transaction_logs_and_account_statement.png)
 ---
 
 ## Games Package
