@@ -88,7 +88,7 @@ python student_tools.py
 ```
 Note: The student_tools.py file generates sample results only. A user cannot not create results from the terminal. For a different results, customizations and showcase of different results can be made in the student_tools.py file
 ### Example Output
-![Example Output of Transaction logs](https://github.com/G3rarrd/Error-Handling-Deep-Dive--Bank-Withdrawal-System/blob/main/readme_assets/transaction_logs_and_account_statement.png)
+![Example Output of student_tools.py](https://github.com/G3rarrd/Flexisaf-Week-4-Modules-Packages/blob/main/readme_assets/students_tools_sample.png)
 ---
 
 ## Games Package
@@ -112,7 +112,8 @@ python games.py
 ```
 
 Follow the on-screen menu to select and play a game.
-
+### Example Output
+![Example Output of games.py](https://github.com/G3rarrd/Flexisaf-Week-4-Modules-Packages/blob/main/readme_assets/games_sample.png)
 ---
 
 ## Requirements
