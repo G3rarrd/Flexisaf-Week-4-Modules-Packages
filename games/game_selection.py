@@ -31,7 +31,7 @@ def select_game() -> tuple[str, Game] | None:
             
             if (selected_option.lower() == "q"):
                 return None
-            print(selected_option)
+
             selected_no : int = int(selected_option)
             if (selected_no < 1 or selected_no > len(game_names)):
                 print("Invalid Option Chosen")

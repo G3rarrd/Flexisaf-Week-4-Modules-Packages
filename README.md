@@ -60,7 +60,11 @@ repository/
 ├── student_tools.py
 └── README.md
 ```
-
+## Environment Setup
+### Create a Virtual Environment
+In the project directory run the following command to create the venv virtual environment
+python -m venv venv
+venv\Scripts\activate
 ---
 
 ## Student Tools Package
